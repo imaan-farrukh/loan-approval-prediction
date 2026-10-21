@@ -26,7 +26,7 @@ This project explores applicant information and loan approval outcomes using Pyt
 - [ ] Model evaluation
 
 ## Dataset
-The project uses a publicly available loan prediction dataset. Please refer to the original dataset source for its details and usage terms.
+The project uses a publicly available loan prediction dataset available on kaggle. 
 
 ## Disclaimer
 This project is for educational purposes. Predictions should not be used as the sole basis for real loan approval decisions.
